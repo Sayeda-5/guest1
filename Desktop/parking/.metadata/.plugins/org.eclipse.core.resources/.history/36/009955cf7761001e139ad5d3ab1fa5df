@@ -1,0 +1,5 @@
+package com.parkinglot.iparku.Model;
+
+public class ParkingSpace {
+
+}

@@ -1,0 +1,5 @@
+package com.parkinglot.iparku.Model;
+
+public enum PaymentMethod {
+
+}

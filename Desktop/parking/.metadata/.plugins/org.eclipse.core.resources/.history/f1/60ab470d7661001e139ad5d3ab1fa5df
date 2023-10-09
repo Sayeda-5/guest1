@@ -1,0 +1,16 @@
+package com.parkinglot.iparku.Model;
+
+import javax.persistence.*;
+
+@Entity
+public class ParkingArea {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+
+    @Column(nullable = false)
+    private String name;
+
+    private int capacity;
+
+}

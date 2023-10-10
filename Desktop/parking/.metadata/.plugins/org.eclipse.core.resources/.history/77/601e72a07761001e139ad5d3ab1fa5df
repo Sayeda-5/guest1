@@ -1,5 +1,0 @@
-package com.parkinglot.iparku.Repository;
-
-public interface PaymentRepo {
-
-}

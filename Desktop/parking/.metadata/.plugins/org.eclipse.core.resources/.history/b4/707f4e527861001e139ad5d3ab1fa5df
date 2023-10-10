@@ -1,5 +1,0 @@
-package com.parkinglot.iparku.Service;
-
-public class PaymentServiceImpl {
-
-}

@@ -1,0 +1,8 @@
+package com.project.parking.Exception;
+
+public enum ReservationStatus {
+	ACTIVE,
+    EXPIRED,
+    CANCELLED,
+    COMPLETED,
+}

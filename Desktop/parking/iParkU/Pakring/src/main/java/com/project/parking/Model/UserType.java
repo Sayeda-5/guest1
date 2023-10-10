@@ -1,0 +1,6 @@
+package com.project.parking.Model;
+
+public enum UserType {
+	ADMIN,
+	CUSTOMER
+}

@@ -1,0 +1,5 @@
+package com.project.parking.Repository;
+
+public interface PaymentDAO {
+
+}

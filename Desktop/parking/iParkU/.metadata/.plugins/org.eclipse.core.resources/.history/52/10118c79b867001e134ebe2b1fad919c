@@ -1,0 +1,5 @@
+package com.project.parking.Exception;
+
+public class ExceptionDTO {
+
+}

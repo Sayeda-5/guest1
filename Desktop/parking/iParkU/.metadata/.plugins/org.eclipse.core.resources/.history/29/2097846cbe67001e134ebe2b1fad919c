@@ -1,0 +1,19 @@
+package com.project.parking.Model;
+
+import java.time.LocalDateTime;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import lombok.Data;
+
+
+@Entity
+@Data
+public class Session {
+
+	@Id
+	private Integer userId;
+	private UserType userType;
+	private LocalDateTime timeStamp;
+	private String sessionKey;
+}
